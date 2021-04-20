@@ -1,0 +1,27 @@
+Create Product:
+{
+    "name": "Lungi",
+    "sku": "white lungi",
+    "price": 44.33,
+    "currency": "USD"
+}
+
+Update Product:
+{"name":"Jama","price":55.55}
+
+SignUP:
+{
+    "email":"mashfiqurrr@gmail.com",
+    "password": "I am mashfiq"
+}
+
+Login:
+{
+    "email":"mashfiqurrr@gmail.com",
+    "password": "I am mashfiq"
+}
+
+Token:
+{
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hc2hmaXF1cnJyQGdtYWlsLmNvbSIsInVzZXJJZCI6IjYwN2U2YzQ4ZTgwMmM2MDU5ODFhNWMwMCIsImlhdCI6MTYxODkwNjIyOSwiZXhwIjoxNjE4OTA5ODI5fQ.qJPPqgQ0t9GdlyzheD1HkqDVgsa5wLfWsJx9njqxEl4"
+}
