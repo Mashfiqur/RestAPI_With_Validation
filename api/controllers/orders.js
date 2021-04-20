@@ -12,7 +12,6 @@ exports.get_all_orders =  (req,res,next) =>{
                 message: "Orders have been retrieved successfully!",
                 count : count_orders,
                 Orders: doc
-                
             });
         }
         else{
